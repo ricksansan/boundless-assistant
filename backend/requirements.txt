@@ -1,0 +1,8 @@
+fastapi
+uvicorn
+psycopg2-binary
+pgvector
+sentence-transformers
+beautifulsoup4
+requests
+numpy 
